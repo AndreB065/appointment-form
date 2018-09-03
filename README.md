@@ -1,2 +1,2 @@
 # Appointment form
-Schedule an appointment using the form below.
+Schedule an appointment using the form.
